@@ -1,0 +1,80 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.om" resolutions="1x" timestamp="1526018152682">
+  <folder name="css">
+    <file name="site_global.css" crc="249343267"/>
+    <file name="index.css" crc="4018902262" ref="index"/>
+    <file name="iefonts_index.css" crc="3786862483" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u3109.php" crc="9607198" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ytong-enostavna-gradnja-5.jpg" crc="4162412718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="4545.jpg" crc="4231040139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1726-4.png" crc="4142180984" ref="index"/>
+    <file name="u1724-4.png" crc="4126633801" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="оренбургская_обл.jpg" crc="3770560915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gai1.png" crc="516287092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1499854304_1468385900_147938302c258266d5bfe169c76689962dc2777a-1.png" crc="4175134183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5269.png" crc="4133489160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="55555555555.png" crc="448356517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="star.png" crc="3969903089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-placeholder-for-locate-places-on-maps.png" crc="267577939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="workers-filled.png" crc="4244024480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="121057001-1200x1200128x87.jpg" crc="413438688" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="121057001-1200x1200.jpg" crc="4126881211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="газоселикат.png" crc="3946993682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="газосели444кат.png" crc="3911202659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="77.png" crc="264154703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4d55c9b142090fd03a2759d1667d3b02.jpg" crc="199041380" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="155423854" seo="true" mt="1526018131681" redirect="true"/>
+</manifest>
